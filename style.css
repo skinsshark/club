@@ -17,6 +17,9 @@ body, h1, h2, h3, p {
 
 body {
   padding-top: 2vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 a, a:focus, a:active {
